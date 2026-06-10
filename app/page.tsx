@@ -62,13 +62,15 @@ export default function Home() {
             <a href="#process" className="hover:text-white">
               Process
             </a>
-            <a href="#contact" className="hover:text-white">
-              Contact
-            </a>
-            <div className="hidden items-center gap-8 text-sm text-neutral-300 md:flex">
+         <div className="hidden items-center gap-8 text-sm text-neutral-300 md:flex">
            <a href="#about" className="hover:text-white">
   About
 </a>
+
+            <a href="#contact" className="hover:text-white">
+              Contact
+            </a>
+   
           </div>
         </nav>
       </header>
