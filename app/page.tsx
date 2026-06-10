@@ -49,10 +49,7 @@ export default function Home() {
         <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
           <a href="#" className="text-lg font-bold tracking-tight">
             DK Web Studio
-          </a>
-
-          
-           
+          </a>          
             <a href="#services" className="hover:text-white">
               Services
             </a>
@@ -64,13 +61,11 @@ export default function Home() {
             </a>
          <div className="hidden items-center gap-8 text-sm text-neutral-300 md:flex">
            <a href="#about" className="hover:text-white">
-  About
-</a>
-
+              About
+            </a>
             <a href="#contact" className="hover:text-white">
               Contact
             </a>
-   
           </div>
         </nav>
       </header>
