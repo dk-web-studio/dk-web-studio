@@ -52,6 +52,10 @@ export default function Home() {
           </a>
 
           <div className="hidden items-center gap-8 text-sm text-neutral-300 md:flex">
+           <a href="#about" className="hover:text-white">
+  About
+</a>
+           
             <a href="#services" className="hover:text-white">
               Services
             </a>
@@ -187,6 +191,33 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <section id="about" className="border-t border-white/10 px-6 py-24">
+  <div className="mx-auto grid max-w-6xl gap-12 md:grid-cols-2">
+    <div>
+      <p className="text-sm font-medium uppercase tracking-[0.3em] text-cyan-400">
+        About
+      </p>
+
+      <h2 className="mt-4 text-3xl font-bold md:text-5xl">
+        Web development με καθαρή επικοινωνία και πρακτικό αποτέλεσμα.
+      </h2>
+    </div>
+
+    <div className="space-y-6 text-lg leading-8 text-neutral-300">
+      <p>
+        Είμαι web developer και δημιουργώ websites που συνδυάζουν καθαρό
+        design, γρήγορη απόδοση και σωστή λειτουργία σε όλες τις συσκευές.
+      </p>
+
+      <p>
+        Μέσα από το DK Web Studio βοηθάω επαγγελματίες, μικρές επιχειρήσεις
+        και projects να αποκτήσουν αξιόπιστη online παρουσία χωρίς περίπλοκες
+        διαδικασίες.
+      </p>
+    </div>
+  </div>
+</section>
 
       <section id="contact" className="border-t border-white/10 px-6 py-24">
         <div className="mx-auto max-w-3xl text-center">
