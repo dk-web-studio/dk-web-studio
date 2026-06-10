@@ -204,10 +204,10 @@ export default function Home() {
           </p>
 
           <a
-            href="mailto:hello@dkwebstudio.gr"
+            href="mailto:dkarampas.work@gmail.com"
             className="mt-10 inline-flex rounded-full bg-cyan-400 px-8 py-4 font-semibold text-neutral-950 transition hover:bg-cyan-300"
           >
-            hello@dkwebstudio.gr
+            dkarampas.work@gmail.com
           </a>
         </div>
       </section>
