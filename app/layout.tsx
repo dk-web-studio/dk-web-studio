@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "DK Web Studio | Modern Websites for Small Businesses",
+  title: "DK Web Studio | Websites & Landing Pages",
   description:
     "Modern, responsive websites and landing pages for professionals, small businesses and events.",
 };
