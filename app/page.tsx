@@ -51,10 +51,7 @@ export default function Home() {
             DK Web Studio
           </a>
 
-          <div className="hidden items-center gap-8 text-sm text-neutral-300 md:flex">
-           <a href="#about" className="hover:text-white">
-  About
-</a>
+          
            
             <a href="#services" className="hover:text-white">
               Services
@@ -68,6 +65,10 @@ export default function Home() {
             <a href="#contact" className="hover:text-white">
               Contact
             </a>
+            <div className="hidden items-center gap-8 text-sm text-neutral-300 md:flex">
+           <a href="#about" className="hover:text-white">
+  About
+</a>
           </div>
         </nav>
       </header>
